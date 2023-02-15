@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: TEST
-  description: NCASA
+  description: TEST
   version: '1.0'
   x-logo:
     url: https://github.com/joolfe/logoBanner.png
@@ -9,14 +9,14 @@ info:
     altText: logo
   termsOfService: '#'
   contact:
-    name: Scodus
-    url: https://scodus.com
-    email: scodusnp@gmail.com
+    name: TEST
+    url: https://bikashxsingh.com
+    email: test@test.com
   license:
     name: MIT
     url: https://es.wikipedia.org/wiki/Licencia_MIT
 servers:
-  - url: https://ncasa.scodus.com/api
+  - url: https://bikashxsingh.com.np/api
 components:
   securitySchemes:
     bearerAuth:

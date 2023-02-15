@@ -2,16 +2,16 @@
   "info": {
     "title": "TEST",
     "version": "1.0",
-    "description": "NCASA",
+    "description": "TEST",
     "termsOfService": "#",
     "license": {
       "name": "MIT",
       "url": "https://es.wikipedia.org/wiki/Licencia_MIT"
     },
     "contact": {
-      "name": "Scodus",
-      "url": "https://scodus.com",
-      "email": "scodusnp@gmail.com"
+      "name": "TEST",
+      "url": "https://bikashxsingh.com",
+      "email": "test@test.com"
     },
     "xLogo": {
       "url": "https://github.com/joolfe/logoBanner.png",
@@ -21,7 +21,7 @@
   },
   "servers": [
     {
-      "url": "https://ncasa.scodus.com/api"
+      "url": "https://bikashxsingh.com.np/api"
     }
   ]
 }
