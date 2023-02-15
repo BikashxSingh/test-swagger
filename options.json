@@ -1,6 +1,6 @@
 {
   "info": {
-    "title": "TES",
+    "title": "TEST",
     "version": "1.0",
     "description": "NCASA",
     "termsOfService": "#",
@@ -17,8 +17,7 @@
       "url": "https://github.com/joolfe/logoBanner.png",
       "backgroundColor": "#FFFFFF",
       "altText": "logo"
-    },
-    "Base URL": "https://ncasa.scodus.com/api"
+    }
   },
   "servers": [
     {
